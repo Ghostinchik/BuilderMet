@@ -1,0 +1,11 @@
+E:\прог\4 курс\КПЗ\Builder1\Builder1\obj\Debug\Builder1.csproj.AssemblyReference.cache
+E:\прог\4 курс\КПЗ\Builder1\Builder1\obj\Debug\Builder1.csproj.SuggestedBindingRedirects.cache
+E:\прог\4 курс\КПЗ\Builder1\Builder1\obj\Debug\Builder1.Form1.resources
+E:\прог\4 курс\КПЗ\Builder1\Builder1\obj\Debug\Builder1.Properties.Resources.resources
+E:\прог\4 курс\КПЗ\Builder1\Builder1\obj\Debug\Builder1.csproj.GenerateResource.cache
+E:\прог\4 курс\КПЗ\Builder1\Builder1\obj\Debug\Builder1.csproj.CoreCompileInputs.cache
+E:\прог\4 курс\КПЗ\Builder1\Builder1\bin\Debug\Builder1.exe.config
+E:\прог\4 курс\КПЗ\Builder1\Builder1\bin\Debug\Builder1.exe
+E:\прог\4 курс\КПЗ\Builder1\Builder1\bin\Debug\Builder1.pdb
+E:\прог\4 курс\КПЗ\Builder1\Builder1\obj\Debug\Builder1.exe
+E:\прог\4 курс\КПЗ\Builder1\Builder1\obj\Debug\Builder1.pdb
